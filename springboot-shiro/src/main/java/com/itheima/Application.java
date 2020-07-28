@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * SpringBoot启动类2
+ * SpringBoot启动类1
  * @author lenovo
  *
  */
